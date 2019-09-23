@@ -1,0 +1,12 @@
+url: https://www.easygov.co.in/
+credentials:
+  login_username: test_automation@test.com
+  login_password: password
+  
+  signup_firstname: Vipul
+  signup_lastname: Pathak
+  signup_email: matest3@032818.com
+  signup_password: 123456
+
+alert_success_msg: This alert has been added to your Watchlist where you can edit it at anytime. Your contacts will be notifed if there is a breach of the alert threshold. 
+
